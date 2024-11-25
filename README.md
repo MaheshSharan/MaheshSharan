@@ -38,7 +38,7 @@ const MaheshSharan = {
         cloud: ["AWS", "Azure", "GCP"],
         devOps: ["Docker", "Kubernetes", "CI/CD"]
     },
-    typing_speed: "81 WPM ⚡",
+    typing_speed: "82 WPM ⚡",
     architecture: ["Microservices", "Event-Driven", "Design Patterns"],
 }
 ```
