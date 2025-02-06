@@ -18,16 +18,16 @@ With a decade of hands-on experience in the tech industry, I've architected solu
 
 ```javascript
 const MaheshSharan = {
-    code: ["JavaScript", "Python", "C#", "TypeScript"],
+    code: ["JavaScript", "Python", "TypeScript"],
     technologies: {
         frontEnd: {
-            js: ["React", "Angular", "Vue"],
+            js: ["React"],
             css: ["Tailwind", "Bootstrap", "Material UI"]
         },
         backEnd: {
             js: ["Node", "Express"],
             python: ["Django", "FastAPI"],
-            misc: ["GraphQL", "REST"]
+            misc: ["REST"]
         },
         AI_ML: {
             frameworks: ["TensorFlow", "PyTorch", "Scikit-learn"],
@@ -35,7 +35,7 @@ const MaheshSharan = {
         },
         databases: ["MongoDB", "PostgreSQL", "Redis"],
         gamedev: ["Unity"],
-        cloud: ["AWS", "Azure", "GCP"],
+        cloud: ["AWS","GCP"],
         devOps: ["Docker", "Kubernetes", "CI/CD"]
     },
     typing_speed: "82 WPM ⚡",
