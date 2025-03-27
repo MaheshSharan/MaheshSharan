@@ -1,115 +1,81 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Mahesh Sharan | Full Stack Architect & AI Engineer
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3F87F5&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Machine+Learning+Engineer;AI+Enthusiast;Unity+Developer" alt="Typing SVG" />
-  
-  <p align="center">
-    <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen" />
-    <img src="https://img.shields.io/badge/Lives-India-success" />
-    <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi-brightgreen" />
+  <h1 style="font-size: 3em; color: #FF00FF; text-shadow: 0 0 15px #FF00FF, 0 0 30px #00FFFF;">Mahesh Sharan</h1>
+  <p style="font-size: 1.5em; color: #00FFFF; animation: pulse 2s infinite;">Code Weaver | AI Catalyst | Reality Bender</p>
+</div>
+
+---
+
+<div style="background: radial-gradient(circle, #1A1A3D, #0A0A1A); padding: 20px; border-radius: 15px; box-shadow: 0 0 20px rgba(255, 0, 255, 0.5);">
+  <h2 style="color: #FFCC00; font-family: 'Monoton', cursive;">01 / The Signal</h2>
+  <p style="color: #E0E0E0; font-family: 'Roboto Mono', monospace;">
+    Transmitting from India, I’ve spent a decade warping the digital plane—fusing full-stack mastery, AI sorcery, and game-dev alchemy. I don’t code; I sculpt systems that breathe.
   </p>
 </div>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> A Decade of Digital Innovation
+---
 
-With a decade of hands-on experience in the tech industry, I've architected solutions that bridge the gap between innovation and practicality. My journey spans from crafting robust full-stack applications to diving deep into the realms of artificial intelligence.
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Professional Arsenal
-
-```javascript
-const MaheshSharan = {
-    code: ["JavaScript", "Python", "TypeScript"],
-    technologies: {
-        frontEnd: {
-            js: ["React"],
-            css: ["Tailwind", "Bootstrap", "Material UI"]
-        },
-        backEnd: {
-            js: ["Node", "Express"],
-            python: ["Django", "FastAPI"],
-            misc: ["REST"]
-        },
-        AI_ML: {
-            frameworks: ["TensorFlow", "PyTorch", "Scikit-learn"],
-            specialties: ["Deep Learning", "Neural Networks", "Computer Vision"]
-        },
-        databases: ["MongoDB", "PostgreSQL", "Redis"],
-        gamedev: ["Unity"],
-        cloud: ["AWS","GCP"],
-        devOps: ["Docker", "Kubernetes", "CI/CD"]
-    },
-    typing_speed: "82 WPM ⚡",
-    architecture: ["Microservices", "Event-Driven", "Design Patterns"],
-}
-```
-
-### 🛠️ Languages and Tools
-
-<div align="center">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; margin: 20px 0;">
+  <div style="background: #2A2A5A; padding: 15px; border-radius: 10px; box-shadow: 0 0 10px #00FFFF;">
+    <h3 style="color: #00FFFF;">02 / Code Core</h3>
+    <ul style="color: #FFFFFF; list-style: none; padding: 0;">
+      <li>⚡️ JavaScript | TypeScript</li>
+      <li>🐍 Python</li>
+      <li>🎮 C#</li>
+    </ul>
+  </div>
   
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+  <div style="background: #2A2A5A; padding: 15px; border-radius: 10px; box-shadow: 0 0 10px #FF00FF;">
+    <h3 style="color: #FF00FF;">03 / Dimensions</h3>
+    <ul style="color: #FFFFFF; list-style: none; padding: 0;">
+      <li>🌐 React | Node | Django | FastAPI</li>
+      <li>🧠 TensorFlow | PyTorch | Scikit-learn</li>
+      <li>🎲 Unity</li>
+      <li>☁️ AWS | GCP | Docker | Kubernetes</li>
+    </ul>
+  </div>
   
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-  ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-  
-  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-  
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-  
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-  
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-  
-  ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-  
-  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-  ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-  
-  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-  ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+  <div style="background: #2A2A5A; padding: 15px; border-radius: 10px; box-shadow: 0 0 10px #FFCC00;">
+    <h3 style="color: #FFCC00;">04 / Data Vault</h3>
+    <ul style="color: #FFFFFF; list-style: none; padding: 0;">
+      <li>💾 MongoDB</li>
+      <li>📊 PostgreSQL</li>
+      <li>🔴 Redis</li>
+    </ul>
+  </div>
 </div>
 
-### 🌟 Highlights
+---
 
-- 🏗️ Architected scalable full-stack solutions for enterprise-level applications
-- 🤖 Developed AI/ML models for real-world business problems
-- 🎮 Created interactive experiences with Unity
-- ⚡ Speed-oriented developer with 81 WPM typing proficiency
-- 🔄 DevOps enthusiast with expertise in containerization and orchestration
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaheshSharan&theme=tokyonight" alt="MaheshSharan's GitHub streak"/>
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=MaheshSharan&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" alt="MaheshSharan's GitHub Trophy"/>
+<div style="background: linear-gradient(45deg, #FF00FF, #00FFFF); padding: 20px; border-radius: 15px; text-align: center;">
+  <h2 style="color: #000000; font-family: 'Major Mono Display', monospace;">05 / Echoes</h2>
+  <p style="color: #FFFFFF; font-size: 1.2em;">
+    - Sculpted scalable microservices for global enterprises<br>
+    - Unleashed AI models that decode the chaos<br>
+    - Forged immersive realms in Unity<br>
+    - Clocked 82 WPM to outpace the matrix
+  </p>
 </div>
 
-### 🤝 Let's Connect
+---
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahesh-sharan/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaheshSharan)
-
+<div align="center" style="margin: 20px 0;">
+  <h2 style="color: #00FFFF; font-family: 'Monoton', cursive;">06 / Pulse</h2>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaheshSharan&theme=highcontrast&hide_border=true&background=0A0A1A&stroke=FF00FF&ring=00FFFF&fire=FFCC00&currStreakLabel=FFFFFF" alt="Streak" />
 </div>
 
+---
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MaheshSharan&label=Profile%20views&color=3F87F5&style=flat" alt="Profile views" />
+  <h2 style="color: #FF00FF; font-family: 'Major Mono Display', monospace;">07 / Nexus</h2>
+  <a href="https://www.linkedin.com/in/mahesh-sharan/" style="margin: 0 10px;"><img src="https://img.shields.io/badge/LinkedIn-FF00FF?style=flat-square&logo=linkedin&logoColor=black" /></a>
+  <a href="https://github.com/MaheshSharan" style="margin: 0 10px;"><img src="https://img.shields.io/badge/GitHub-00FFFF?style=flat-square&logo=github&logoColor=black" /></a>
+  <p style="color: #FFFFFF; margin-top: 10px;">
+    <img src="https://komarev.com/ghpvc/?username=MaheshSharan&color=FF00FF&style=flat-square" alt="Views" />
+  </p>
 </div>
 
-<img src="https://github.com/MaheshSharan/MaheshSharan/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/11ISwbgCxEzMyY/giphy.gif" width="200px" style="border-radius: 10px; box-shadow: 0 0 20px #FF00FF;" />
+</div>
