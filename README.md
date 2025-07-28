@@ -20,7 +20,6 @@
     <ul style="color: #FFFFFF; list-style: none; padding: 0;">
       <li>⚡️ JavaScript | TypeScript</li>
       <li>🐍 Python</li>
-      <li>🎮 C#</li>
     </ul>
   </div>
   
@@ -29,8 +28,7 @@
     <ul style="color: #FFFFFF; list-style: none; padding: 0;">
       <li>🌐 React | Node | Django | FastAPI</li>
       <li>🧠 TensorFlow | PyTorch | Scikit-learn</li>
-      <li>🎲 Unity</li>
-      <li>☁️ AWS | GCP | Docker | Kubernetes</li>
+      <li>☁️ GCP | Docker
     </ul>
   </div>
   
