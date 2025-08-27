@@ -8,7 +8,7 @@
 <div style="background: radial-gradient(circle, #1A1A3D, #0A0A1A); padding: 20px; border-radius: 15px; box-shadow: 0 0 20px rgba(255, 0, 255, 0.5);">
   <h2 style="color: #FFCC00; font-family: 'Monoton', cursive;">01 / The Signal</h2>
   <p style="color: #E0E0E0; font-family: 'Roboto Mono', monospace;">
-    Transmitting from India, I’ve spent a decade warping the digital plane—fusing full-stack mastery, AI sorcery, and game-dev alchemy. I don’t code; I sculpt systems that breathe.
+    Transmitting from India, I’ve spent a decade warping the digital plane—fusing full-stack mastery, AI sorcery, and game-dev alchemy. Coding to make my life more Lazy.
   </p>
 </div>
 
