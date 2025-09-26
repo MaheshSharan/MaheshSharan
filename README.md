@@ -1,15 +1,8 @@
-# Hi, I’m Mahesh 👾  
+### Hey sup! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I automate my laziness.  
-Sometimes the automation is harder than the work.  
+I’m Mahe. I mostly just google errors professionally.  
+If you’re here expecting inspiration, tutorials, or clean code… lol.  
+These repos are basically me arguing with my compiler at 3am.  
+Stars are free tho, go wild ⭐  
 
----
-
-## Pulse
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MaheshSharan&theme=highcontrast&hide_border=true&background=0A0A1A&stroke=FF00FF&ring=00FFFF&fire=FFCC00&currStreakLabel=FFFFFF" alt="Streak" />
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/11ISwbgCxEzMyY/giphy.gif" width="200px" />
-</div>
+Outside of code, you’ll probably find me lifting at the gym.
