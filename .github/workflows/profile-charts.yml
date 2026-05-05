@@ -1,0 +1,35 @@
+name: Profile Charts
+
+on:
+  schedule:
+    - cron: "0 3 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate summary cards
+        run: |
+          set -e
+          OWNER="${{ github.repository_owner }}"
+          OUT_DIR="profile-summary-card-output/github_dark"
+          mkdir -p "$OUT_DIR"
+          curl -fsSL "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=${OWNER}&theme=github_dark" -o "$OUT_DIR/0-profile-details.svg"
+          curl -fsSL "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=${OWNER}&theme=github_dark" -o "$OUT_DIR/1-repos-per-language.svg"
+          curl -fsSL "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=${OWNER}&theme=github_dark" -o "$OUT_DIR/2-most-commit-language.svg"
+          curl -fsSL "https://github-profile-summary-cards.vercel.app/api/cards/stats?username=${OWNER}&theme=github_dark" -o "$OUT_DIR/3-stats.svg"
+          curl -fsSL "https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=${OWNER}&theme=github_dark&utcOffset=5" -o "$OUT_DIR/4-productive-time.svg"
+      - name: Commit and push
+        run: |
+          if git status --porcelain | grep -q .; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add profile-summary-card-output/github_dark/*.svg
+            git commit -m "chore: update profile charts"
+            git push
+          fi
