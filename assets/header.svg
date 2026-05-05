@@ -9,6 +9,6 @@
   <rect width="1200" height="240" fill="url(#bg)" />
   <g fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" text-anchor="middle">
     <text x="600" y="120" font-size="56" font-weight="700">Mahesh Sharan</text>
-    <text x="600" y="170" font-size="20" letter-spacing="2">I write software to automate my existence so I can be more lazy.</text>
+    <text x="600" y="170" font-size="20" letter-spacing="1">I code tools to make my life lazy, so I can sleep more.</text>
   </g>
 </svg>
